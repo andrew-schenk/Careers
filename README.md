@@ -23,10 +23,10 @@ Please complete the relevant section and email your answer to careers@linxsystem
 - Cloud / DevOps Engineer
 
 ## Step 3: Interview
-TBD
+If you have been selected for an interview, you will be notified by the hiring manager.  The interview typically takes around 30 minutes and will either be conducted in person at our Bloomington, IL office or via video call.  
 
 ## Step 4: Technical 2
-TBD
+You've aced the first technical and piqued our interest in the interview.  Now we want to see how well we work together.  This assessment takes between 30-60 minutes.  It provides you with a real world look at how we work and lets us see you flex your muscles.
 
 ## Hired!
-TBD
+Congratulations!  You are a great fit at Linx Systems and we are thrilled for you to be joining us.  Specific next steps will be sent over including an employment contract.

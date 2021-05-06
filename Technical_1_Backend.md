@@ -8,11 +8,11 @@ Given these tables
 
 gatekeeper_user | &nbsp; | &nbsp;
 --------------- | - | -
-id | email | belongs_to_circle_id
+id (primary key) | email (varchar) | belongs_to_circle_id (fk)
 
 common_cirlces | &nbsp;
 -------------- | - 
-id | name
+id (primary key) | name (varchar)
 
 
 Write a sql query that fetches all unique email domains and counts them for circle name 'Retailer'.  Email data should be considered valid format.  e.g. 'john@example.com'

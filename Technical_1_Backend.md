@@ -15,7 +15,7 @@ common_cirlces | &nbsp;
 id | name
 
 
-Write a query that fetches all unique email domains and counts them for circle name 'Retailer'.  Email data should be considered valid format.  e.g. 'john@example.com'
+Write a sql query that fetches all unique email domains and counts them for circle name 'Retailer'.  Email data should be considered valid format.  e.g. 'john@example.com'
 
 Expected Result format
 

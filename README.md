@@ -20,7 +20,7 @@ Please complete the relevant section and email your answer to careers@linxsystem
 
 - [Frontend JavaScript Developer](Technical_1_JavaScript.md)
 - [DBA / Backend Developer](Technical_1_Backend.md)
-- Cloud / DevOps Engineer
+- [Cloud / DevOps Engineer](Technical_1_Cloud-DevOps.md)
 
 ## Step 3: Interview
 If you have been selected for an interview, you will be notified by the hiring manager.  The interview typically takes around 30 minutes and will either be conducted in person at our Bloomington, IL office or via video call.  

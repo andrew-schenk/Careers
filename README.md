@@ -30,3 +30,5 @@ You've aced the first technical and piqued our interest in the interview.  Now w
 
 ## Hired!
 Congratulations!  You are a great fit at Linx Systems and we are thrilled for you to be joining us.  Specific next steps will be sent over including an employment contract.
+
+[Learn More About Linx Systems](https://www.linxsystems.com)

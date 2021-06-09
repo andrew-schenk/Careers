@@ -10,12 +10,12 @@ gatekeeper_user | &nbsp; | &nbsp;
 --------------- | - | -
 id (primary key) | email (varchar) | belongs_to_circle_id (fk)
 
-common_cirlces | &nbsp;
+common_circles | &nbsp;
 -------------- | - 
 id (primary key) | name (varchar)
 
 
-Write a sql query that fetches all unique email domains and counts them for circle name 'Retailer'.  Email data should be considered valid format.  e.g. 'john@example.com'
+Write a MYSQL (5.7 compatible) query that fetches all unique email domains and counts them for circle name 'Retailer'.  Email data should be considered valid format.  e.g. 'john@example.com'
 
 Expected Result format
 
